@@ -1,0 +1,9 @@
+query Pages {
+   pages {
+    Title
+    Content
+    Photo {
+      url
+    }
+  }
+}
